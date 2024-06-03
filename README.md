@@ -26,7 +26,7 @@ This is a solution to the [Meme Generator project on Scrimba](https://scrimba.co
 
 ### Links
 
-- Live Site URL: [@Netlify][(https://meme-generator-xdelmo.netlify.app/)](https://meme-generator-by-sejal.netlify.app/)
+- Live Site URL: [@Netlify][(https://meme-generator-by-sejal.netlify.app/)]
 
 ### Getting Started with Create React App
 
@@ -65,4 +65,4 @@ I'd like to:
 
 ## Author
 
-- Website - [Sejal Kushwaha]([https://www.emanueledelmonte.it](https://sejal1712.github.io/My_Personal_Portfolio/))
+- Website - [Sejal Kushwaha]([[https://www.emanueledelmonte.it](https://sejal1712.github.io/My_Personal_Portfolio/)])
