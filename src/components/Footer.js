@@ -9,7 +9,7 @@ export default function Footer() {
           target="_blank"
           rel="noreferrer"
         >
-          Emanuele Del Monte
+          Sejal Kushwaha
         </a>
         .
       </small>
