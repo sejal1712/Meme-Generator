@@ -5,7 +5,7 @@ export default function Footer() {
         Coded with ❤️ by{" "}
         <a
           className="footer--link"
-          href="https://emanueledelmonte.it"
+          href="https://sejal1712.github.io/My_Personal_Portfolio/"
           target="_blank"
           rel="noreferrer"
         >
